@@ -1,0 +1,2 @@
+module StorHelper
+end
