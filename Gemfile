@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 gem 'bootstrap-generators'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
-
+gem 'fuck-u' 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
@@ -45,9 +45,18 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem "better_errors"
+<<<<<<< HEAD
 group :development, :test do
 	gem 'sqlite3'
 end
 group :production do
 	gem 'pg', '~> 0.17.0'
 end
+=======
+			group :development, :test do
+				gem 'sqlite3'
+			end
+			group :production do
+				gem 'pg', '~> 0.17.0'
+			end
+>>>>>>> Reaksmey/master
