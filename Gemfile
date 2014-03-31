@@ -44,18 +44,30 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem "better_errors"
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> bc650adcf8eebab6f624965505091eb5ceeeb99c
 group :development, :test do
 	gem 'sqlite3'
 end
 group :production do
 	gem 'pg', '~> 0.17.0'
 end
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> bc650adcf8eebab6f624965505091eb5ceeeb99c
 			group :development, :test do
 				gem 'sqlite3'
 			end
 			group :production do
 				gem 'pg', '~> 0.17.0'
 			end
+<<<<<<< HEAD
 
+=======
+>>>>>>> Reaksmey/master
+>>>>>>> bc650adcf8eebab6f624965505091eb5ceeeb99c
